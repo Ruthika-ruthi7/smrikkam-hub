@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/ssr.js": {
+      "runtime": "nodejs20.x"
+    }
+  },
   "rewrites": [
     {
       "source": "/(.*)",
